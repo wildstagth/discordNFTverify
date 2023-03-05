@@ -389,5 +389,5 @@ async def check(interaction: discord.Interaction):
       embed = discord.Embed(title="Check Complete", description=f"Added {added} roles", color=0x00ff00)
       await interaction.channel.send(embed=embed)
 
-client.run('MTAyODYzMDAxMzcwNjI2MDUwMA.GzIutv.vmBf_R6C3UbQGofbK9n4rp56PEUaXTnCovJujo')
+client.run('TOKENHERE')
       
