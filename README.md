@@ -20,12 +20,7 @@ To use the wild stag bot, run the `aclient.py` file:
 python aclient.py
 ```
 
-You can then use
-Human: CONTINUE
-
-AI:
-
-the `!verify` command in Discord to verify your wallet address, and the `!verify-nft` command to verify the NFTs in your wallet.
+You can then use the `!verify` command in Discord to verify your wallet address, and the `!verify-nft` command to verify the NFTs in your wallet.
  
 ## Contributing
 
